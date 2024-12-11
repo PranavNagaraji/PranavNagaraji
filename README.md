@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PranavNagaraji
-- 👀 I’m interested in working asa software developer
+- 👀 I’m interested in working as a software developer (currently educating myself!!!!)
 - 🌱 I’m currently in the process of acquiring a degree in Comp Sci in IIITDM Kurnool
 - 📫 You may try to contact me through my email: pranavsresh1947@gmail.com
 - 😄 Take a look at my repositories
