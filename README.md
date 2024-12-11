@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @PranavNagaraji
-- 👀 I’m interested in building my skills
-- 🌱 I’m currently learning some coding languages
-- 📫 How to reach me ...via my email
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Well nothing interesting for now, i guess!!! 
+- 👀 I’m interested in working asa software developer
+- 🌱 I’m currently in the process of acquiring a degree in Comp Sci in IIITDM Kurnool
+- 📫 You may try to contact me through my email: pranavsresh1947@gmail.com
+- 😄 Take a look at my repositories
+- ⚡ Have fun all the way around!
 
 <!---
 PranavNagaraji/PranavNagaraji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
