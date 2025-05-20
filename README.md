@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @PranavNagaraji
-- 👀 I’m interested in working as a software developer (currently educating myself!!!!)
-- 🌱 I’m currently in the process of acquiring a degree in Comp Sci in IIITDM Kurnool
-- 📫 You may try to contact me through my email: pranavsresh1947@gmail.com
-- 😄 Take a look at my repositories
-- ⚡ Have fun all the way around!
+- Hi, I’m @PranavNagaraji
+- Interested in working as a software developer
+- I have interests in machine and deep learning too
+- Experience in full stack Web Development
+- Currently pursuing a degree in Comp Sci in IIITDM Kurnool
+- Get in touch through my email: pranavsresh1947@gmail.com
 
 <!---
 PranavNagaraji/PranavNagaraji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
