@@ -1,7 +1,7 @@
-- Hi, I’m @PranavNagaraji
+- Hi, your looking at Pranav's profile
 - Interested in working as a software developer
 - I have interests in machine and deep learning too
-- Experience in full stack Web Development
+- Experience in ull stack Web Development (worked through an internship and acquired invaluable experience)
 - Currently pursuing a degree in Comp Sci in IIITDM Kurnool
 - Get in touch through my email: pranavsresh1947@gmail.com
 
