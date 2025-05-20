@@ -1,4 +1,4 @@
-- Hi, your looking at Pranav's profile
+- Hi, you're looking at Pranav's profile
 - Interested in working as a software developer
 - I have interests in machine and deep learning too
 - Experience in ull stack Web Development (worked through an internship and acquired invaluable experience)
