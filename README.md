@@ -16,8 +16,6 @@ Experienced in developing scalable full-stack applications through internships a
 
 I enjoy building clean, efficient, and impactful software that solves real-world problems.
 
-📫 Contact: pranavnagaraji22@gmail.com
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-nagaraji)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavnagaraji22@gmail.com) 
 
